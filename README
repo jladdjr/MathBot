@@ -1,1 +1,4 @@
-...
+Required Packages:
+
+* httplib2
+* python-oauth2
